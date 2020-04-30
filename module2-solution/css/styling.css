@@ -4,6 +4,8 @@
     padding: 0px;
 }
 
+
+
 header{
     margin-top: 2%;
     font-size:45px;
@@ -67,6 +69,11 @@ Mobile
     width: 100%;
     margin: 2%;
     }
+    
+    .container{
+        margin-right: 4%;
+    }
+
 }
 
 .first-box-menu{
